@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **learning skills and growing my network.**
 
-- 🤝 I’m looking for help with **growing my network.**
+- 🤝 I’m looking forward to **building tech and getting paid.**
 
 - 💬 Ask me about **ML, CNN**
 
